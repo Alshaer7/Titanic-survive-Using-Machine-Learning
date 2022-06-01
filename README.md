@@ -1,1 +1,1 @@
-# Titanic-survive-Using-Machine-Learning
+# Titanic-survive-Predictions-Using-Machine-Learning
